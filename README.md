@@ -4,6 +4,8 @@ Github pages: https://shinoinochi.github.io/test-task/
 Клонирование проекта и переход в папку
 ```
 git clone git@github.com:Shinoinochi/test-task.git
+```
+```
 cd test-task
 ```
 Установка зависимостей
