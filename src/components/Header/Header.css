@@ -1,0 +1,18 @@
+.header {
+    height: 40px;
+    display: flex;
+    justify-content: flex-end;
+    gap: 30px;
+    align-items: center;
+    margin: 40px 40px;
+  }
+  .header__link {
+    text-decoration: none;
+    color: #fff;
+    font-size: 24px;
+    transition: .2s linear;
+  }
+  .header__link:hover {
+    color: #34b55c;
+  }
+  
