@@ -1,4 +1,5 @@
 # Тестовое задание
+Github pages: https://shinoinochi.github.io/test-task/
 ## Установка
 Клонирование проекта и переход в папку
 ```
@@ -16,7 +17,7 @@ npm run build
 
 Для локального запуска введите
 ```
-`npm run start`
+npm run start
 ```
 Откройте [http://localhost:3000](http://localhost:3000) для просмотра в вашем браузере
 
